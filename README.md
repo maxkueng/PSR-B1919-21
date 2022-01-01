@@ -120,7 +120,8 @@ configuration section.
 The generator script is licensed under MIT License.  
 Copyright (c) 2022 Max Kueng (http://maxkueng.com/)
 
-The pulsar.csv data is from [Borgar's Gist][5] and is licensed under Creative Commons BY-NC-SA 4.0.
+The pulsar.csv data is from [Borgar's Gist][5] and is licensed under Creative
+Commons BY-NC-SA 4.0.
  
 
 [0]: https://en.wikipedia.org/wiki/PSR_B1919%2B21
