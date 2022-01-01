@@ -230,7 +230,7 @@ function createPartSTLFiles({
   extrudeHeight,
 }) {
   return Promise.all(dxfFiles.map(({ fileName }) => (
-    createSTL(path.join('.', 'part.scad'), path.join(stlDirPath, `${path.basename(fileName)}.stl`), {
+    createSTL(path.join('.', 'part.scad'), path.join(stlDirPath, `${path.basename(fileName, '.dxf')}.stl`), {
       dxf: path.join(dxfDirPath, fileName),
       height: extrudeHeight,
     })
