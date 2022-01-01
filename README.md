@@ -76,6 +76,8 @@ out/
  - `out/stl` contains separate STL for each part in case you want to arrange
    them yourself in the slicer.
 
+*Note that the numbering of the pulses is reversed! The part numbering is just for easier scripting and assembly.*
+
 ## Customization
 
 Open the `generate.js` file in a code editor and mofify the values in the
