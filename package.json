@@ -1,14 +1,14 @@
 {
-  "name": "pulsar",
+  "private": true,
+  "name": "psr-b1919-21",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "STL generator for PSR-B1919-21 pulsar",
+  "main": "generate.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": ""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Max Kueng (https://maxkueng.com/contact)",
+  "license": "MIT",
   "dependencies": {
     "dxf-writer": "^1.14.0",
     "fast-csv": "^4.3.6",
