@@ -8,7 +8,7 @@ Each pulse is a separate printed part that can be glued together to make the
 full piece. The generator will create several STL files to print all the parts
 in batches.
 
-Ready-made STl files are available on Thingiverse:  
+Ready-made STL files are available on Thingiverse:  
 https://www.thingiverse.com/thing:5181661
 
 ![](images/photo1.jpg)
